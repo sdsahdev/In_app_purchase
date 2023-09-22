@@ -1,0 +1,4 @@
+{
+    "emulator.emulatorPath": "~/Library/Android/sdk/platform-tools",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
