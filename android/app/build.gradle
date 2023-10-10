@@ -116,6 +116,7 @@ missingDimensionStrategy 'store', 'play'
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
+     implementation project(':react-native-fs')
 // dependencies {
 //     def billing_version = "5.0.0"
 
